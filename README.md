@@ -10,8 +10,8 @@ This is a sample blog app written in [Mantra](https://github.com/kadirahq/mantra
 
 ### Running The App
 
-Simply start your app with `meteor -p 5005`. 
-Then you can access the app on <http://localhost:5005>
+Simply start your app with `meteor`. 
+Then you can access the app on <http://localhost:3000>
 
 ### Running Tests
 
