@@ -24,4 +24,4 @@ npm test
 ```
 
 **See package.json for more information about testing setup.**
-
+Have some questions, you can contact me by QQ(506819921) and remark 'mantra-meteor'. 
